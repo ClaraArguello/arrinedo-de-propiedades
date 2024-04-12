@@ -4,17 +4,12 @@ margin: 0;
 box-sizing: border-box;  
 }
 
-/* h2{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-} */
 header{
-    /* height: 100vh; */
     display: flex;
     justify-content: center;
     align-items: center;
 }
+
 .boton{
     background-color: chartreuse;
 }
